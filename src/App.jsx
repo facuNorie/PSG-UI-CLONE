@@ -1,7 +1,12 @@
 import React from "react";
+import Navbar from "./components/Navbar";
 
 function App() {
-	return <div className="App">Clonar la UI de psg</div>;
+	return (
+		<div>
+			<Navbar />
+		</div>
+	);
 }
 
 export default App;
