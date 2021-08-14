@@ -14,11 +14,10 @@ export const ItemNav = styled.a`
 	display: inline-block;
 	font-weight: 700;
 	font-size: 0.7rem;
-	line-height: 3;
+	line-height: 2.8;
 	font-family: Arial, Helvetica, sans-serif;
 	transition: all ease-out 600ms;
 	padding: 0 16px;
-	letter-spacing: -0.5px;
 	&:hover {
 		background: #49505c;
 	}
